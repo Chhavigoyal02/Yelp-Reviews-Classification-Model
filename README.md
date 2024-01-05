@@ -19,7 +19,7 @@ So,here are the step I followed in this problem statement:
 
 --> Step-1: Importing the libraries and Loading the dataset.
 - Begin by importing essential libraries such as NumPy for basic calculations, Pandas for handling dataframes, Matplotlib for plotting graphs, and Seaborn for visualizing data. 
-- Load the dataset named "emails" from a CSV file using the Pandas library.
+- Load the dataset named "yelp" from a CSV file using the Pandas library.
 
 --> Step-2: Data Visualization
 - First, add new column of length of a review in datset which is going to be useful in our analysis in future.
