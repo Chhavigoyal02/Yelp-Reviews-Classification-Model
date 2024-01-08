@@ -8,7 +8,7 @@
 # PROJECT OVERVIEW:
 -- First of all,we need to check whether it is regression task or classifiction task...
         
-    It is a classification task as we have to classify whether a specific review is a positive review or a negative one .
+    It is a classification task as we have to classify whether a specific review is a positive review or a negative one.
 -- Here,we are going to use Naive Bayes and Natural Language Processing(NLP) to get this task done.
 
 Natural Language Processing(NLP) enables computers to understand natural language as humans do. Whether the language is spoken or written, natural language processing uses artificial intelligence to take real-world input, process it, and make sense of it in a way a computer can understand.
